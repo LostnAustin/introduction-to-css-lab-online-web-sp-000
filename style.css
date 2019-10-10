@@ -17,7 +17,7 @@ padding: 30px;
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  font-size: 22px
+  font-size: 22px;
   /* Your code here! */
   color:red;
 }
